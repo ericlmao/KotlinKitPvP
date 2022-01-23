@@ -1,0 +1,4 @@
+name: KotlinKitPvP
+version: '${project.version}'
+main: dev.negativekb.kitpvp.KotlinKitPvP
+authors: [ Negative ]
